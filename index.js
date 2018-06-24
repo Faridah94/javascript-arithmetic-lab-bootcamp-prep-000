@@ -1,2 +1,2 @@
-console.log(parseInt('nonsense!', 10))
+console.log(parseFloat('80.123999'))
 
