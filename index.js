@@ -1,1 +1,2 @@
-console.log(parseInt('2', 10))
+console.log(parseInt('2.2222', 10))
+
