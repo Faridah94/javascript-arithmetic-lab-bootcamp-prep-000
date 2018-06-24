@@ -1,1 +1,1 @@
-makeInt(n)
+function makeInt(n) 
