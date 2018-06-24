@@ -6,3 +6,7 @@ function makeInt(n){
 function add(a,b){
   return a+b
 }
+
+function abstract(a,b){
+  return a-b
+}
